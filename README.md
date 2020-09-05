@@ -5,11 +5,11 @@ Docker を用いて Elixir/Phoenix アプリケーションの開発・学習を
 ## 構築される環境
 
 * Debian 10 (Buster)
-* Erlang/OTP 22.1.8
-* Elixir 1.9.4
-* Phoenix 1.4.11
-* Node.js 10.18
-* npm 6.13
+* Erlang/OTP 22.3.4
+* Elixir 1.10.4
+* Phoenix 1.5.4.
+* Node.js 10.22.0
+* npm 6.14.6
 
 ## 必要なソフトウェア
 
@@ -21,3 +21,4 @@ Docker を用いて Elixir/Phoenix アプリケーションの開発・学習を
 * macOS 10.14 Mojave
 * Ubuntu 16.04
 * Ubuntu 18.04
+* Ubuntu 20.04
